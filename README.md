@@ -10,7 +10,7 @@ RISE:
     * conda install -c damianavila82 rise  
     
 ## Data Downloads
-CDC Chronic Disease Indicators Dataset: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi/resource/f21d6667-9a21-4a17-a5d7-fabfdedc3d6d  
+CDC Chronic Disease Indicators Dataset: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
 
 CDC Chronic Disease Indicators- Arthritis Dataset: https://github.com/JamiesHQ/DS_Workflows_Jupyter_20180131/blob/master/Chronic_Disease_Indicators_Arthritis_US.csv
 
